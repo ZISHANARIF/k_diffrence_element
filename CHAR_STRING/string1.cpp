@@ -74,16 +74,16 @@ int main(){
     // replace funcation*************
 
 
-   string str="this is my first message";
-    string word="zishan";
+//    string str="this is my first message";
+//     string word="zishan";
 
-    str.replace(11,5 ,word);
-    cout<<str<<endl;
+//     str.replace(11,5 ,word);
+//     cout<<str<<endl;
 
-    // erase funcation**********
-    string str="abcdefghijkl";
-    str.erase(0,5);
-    cout<<str<<endl;
+//     // erase funcation**********
+//     string str="abcdefghijkl";
+//     str.erase(0,5);
+//     cout<<str<<endl;
 
     return 0;
 }
